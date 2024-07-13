@@ -15,3 +15,9 @@ Shared headers to use with [Caramel](https://github.com/GreenteaOS/Caramel) and 
 ## Documentation
 
 Docs will be generated soon!
+
+https://greenteaos.github.io/Dance/
+
+## License
+
+The MIT license allows you to use the headers within your software.
